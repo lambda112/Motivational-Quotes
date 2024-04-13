@@ -5,7 +5,7 @@ from random import choice
 
 MY_EMAIL = "lambdaa112@gmail.com"
 TARGET_EMAIL = "kamazim121212@gmail.com"
-PASSWORD = "ynha ervn pgwy cink"
+PASSWORD = "xxxxx"
 names = ["Jessie", "James"]
 
 # Can use similar to file context manager
